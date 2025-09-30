@@ -46,21 +46,21 @@ The unit on modeling human cognition introduced a framework based on the creatio
 
 {{% resource_link "3a08df29-46c9-1378-cf03-d672fec3e037" "Church\_examples (RTF)" %}} contains the code examples described in the two-part tutorial video. These examples can be executed by copying the code into one of the following Church programming environments. Code can also be written from scratch and modified in these environments:
 
-1. First edition of the {{% resource_link "723b0349-5541-47b5-9376-9b0e968ec6cc" "Probabilistic Models of Cognition" %}} electronic text, cited in the section below on *Future Study*, which includes a separate {{% resource_link "3829b12c-09d9-489e-a97f-1cfcbd0337e8" "Play space" %}} where code can be copied, modified, and executed
-2. {{% resource_link "ded270bc-5f32-432d-8289-6fd9883fceda" "webchurch engine" %}} that runs Church code in a web browser, which is available on GitHub for download onto your local computer
+1. First edition of the [Probabilistic Models of Cognition](http://v1.probmods.org/) electronic text, cited in the section below on *Future Study*, which includes a separate [Play space](http://v1.probmods.org/play-space.html) where code can be copied, modified, and executed
+2. [webchurch engine](https://github.com/probmods/webchurch) that runs Church code in a web browser, which is available on GitHub for download onto your local computer
 
 ### Further Study
 
-Goodman, N. D., and J. B. Tenenbaum. {{% resource_link "723b0349-5541-47b5-9376-9b0e968ec6cc" "*Probabilistic Models of Cognition, First Edition*" %}} (electronic).
+Goodman, N. D., and J. B. Tenenbaum. [*Probabilistic Models of Cognition, First Edition*](http://v1.probmods.org/) (electronic).
 
-- This interactive text introduces many probabilistic modeling techniques and contains an embedded Church programming environment with coding examples throughout the text that can be modified and executed in place. The text also includes a separate {{% resource_link "3829b12c-09d9-489e-a97f-1cfcbd0337e8" "Play space" %}} and {{% resource_link "04d06532-edcf-4343-8e17-b233405ee57e" "Church language reference" %}}.
+- This interactive text introduces many probabilistic modeling techniques and contains an embedded Church programming environment with coding examples throughout the text that can be modified and executed in place. The text also includes a separate [Play space](http://v1.probmods.org/play-space.html) and [Church language reference](http://v1.probmods.org/webchurch/online/ref.html).
 
-Goodman, N. D, and J. B. Tenenbaum. {{% resource_link "82944209-b762-4a32-a3c0-8b5683868ef9" "*Probabilistic Models of Cognition, Second Edition*" %}} (electronic). With programming exercises written in the web-based probabilistic programming language, {{% resource_link "7c0ca734-843f-413a-8157-478575a258ea" "WebPPL" %}}.
+Goodman, N. D, and J. B. Tenenbaum. [*Probabilistic Models of Cognition, Second Edition*](https://probmods.org/) (electronic). With programming exercises written in the web-based probabilistic programming language, [WebPPL](http://webppl.org/).
 
-Goodman, N. D., and A. Stuhlmüller. {{% resource_link "6b48ea26-b04b-4aa8-ab7e-54587c955069" "*The Design and Implementation of Probabilistic Programming Languages*" %}}. (electronic)
+Goodman, N. D., and A. Stuhlmüller. [*The Design and Implementation of Probabilistic Programming Languages*](http://dippl.org/). (electronic)
 
-- This online text describes how probablistic programming languages (PPLs) can be embedded in other languages, and introduces the {{% resource_link "1e5c1885-8293-4944-87f2-cbfc4771b546" "WebPPL" %}} language, a web-based PPL embedded in JavaScript.
+- This online text describes how probablistic programming languages (PPLs) can be embedded in other languages, and introduces the [WebPPL](http://webppl.org) language, a web-based PPL embedded in JavaScript.
 
-{{% resource_link "88bba250-7ebc-4760-aa6a-e4634330f587" "forestdb.org" %}}: A repository of probabilistic models implemented in the Church language
+[forestdb.org](http://forestdb.org/): A repository of probabilistic models implemented in the Church language
 
-The Church language is one of several probabilistic programming languages. Learn more about such languages at the {{% resource_link "5c027575-a32f-438b-88c3-5187b3e3cfef" "Probabilistic-Programming wiki" %}}.
+The Church language is one of several probabilistic programming languages. Learn more about such languages at the [Probabilistic-Programming wiki](https://en.wikipedia.org/wiki/Probabilistic_programming).

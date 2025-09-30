@@ -7,6 +7,8 @@ description: fMRI studies conducted by Nancy Kanwisher, Rebecca Saxe, and collea
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/1ec1934ebf22f51a57e41dc1839a438b_unit6.jpg
 file_size: 42271
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: fMRI studies conducted by Nancy Kanwisher, Rebecca Saxe, and colleagues
     reveals subregions of area STS in the human brain, roughly portrayed here, that

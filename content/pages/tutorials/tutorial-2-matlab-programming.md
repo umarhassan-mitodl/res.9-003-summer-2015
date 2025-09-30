@@ -30,8 +30,8 @@ NOTE: There are no videos for this tutorial.
 ### Useful Background
 
 - Introduction to computer programming, linear algebra
-- The MATLAB technical computing environment can be purchased from {{% resource_link "e1feffb3-a3ff-4326-aa27-5956d467a12d" "MathWorks, Inc" %}}.
-- The free {{% resource_link "6a4d7231-f966-452f-a33d-8845c685c2be" "GNU Octave Scientific Programming Language" %}} is largely compatible with MATLAB and can be used to run the MATLAB examples in this tutorial.
+- The MATLAB technical computing environment can be purchased from [MathWorks, Inc](http://www.mathworks.com/).
+- The free [GNU Octave Scientific Programming Language](https://www.gnu.org/software/octave/) is largely compatible with MATLAB and can be used to run the MATLAB examples in this tutorial.
 
 ### MATLAB Introduction
 
@@ -75,24 +75,24 @@ SOLUTIONS 
 
 ## Further Study
 
-Attaway, S. *MATLAB: A Practical Introduction to Programming and Problem Solving*. Butterworth-Heinemann, 2013. ISBN: 9780124058767. \[Preview with {{% resource_link "b28607e4-f47d-42ca-ab18-1dbf3ff0df61" "Google Books" %}}\]
+Attaway, S. *MATLAB: A Practical Introduction to Programming and Problem Solving*. Butterworth-Heinemann, 2013. ISBN: 9780124058767. \[Preview with [Google Books](http://books.google.com/books?id=eqldp6labvwC&pg=PAfrontcover)\]
 
-{{% resource_link "8e281d9f-8f61-468f-9eb8-cbae7c871797" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cohen, M. X. {{% resource_link "8e281d9f-8f61-468f-9eb8-cbae7c871797" "*MATLAB for Brain and Cognitive Scientists*" %}}. MIT Press, 2017. ISBN: 9780262035828.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262035828) Cohen, M. X. [*MATLAB for Brain and Cognitive Scientists*](https://mitpress.mit.edu/9780262035828). MIT Press, 2017. ISBN: 9780262035828.
 
 Gilat, A. *MATLAB: An Introduction with Applications, Fifth Edition*. Wiley, 2014. ISBN: 9781118629864.
 
 Goldman, M. *Tutorials in Computational Neuroscience*.
 
-Gore, J., P. Blainey, E. S. Lander, E. Fraenkel, M. E. Wiltrout, N. Schafheimer. {{% resource_link "7b48a671-39ba-4463-a85c-00a613f7d499" "*Quantitative Biology Workshop*" %}}. Self-paced online course from MITx on edX.
+Gore, J., P. Blainey, E. S. Lander, E. Fraenkel, M. E. Wiltrout, N. Schafheimer. [*Quantitative Biology Workshop*](https://mitxonline.mit.edu/courses/course-v1:MITxT+7.QBWx/). Self-paced online course from MITx on edX.
 
 Hanselman, D. C., and B. L. Littlefield. *Mastering MATLAB*. Pearson, 2012. ISBN: 9780136013303.
 
-Mathworks, Inc. {{% resource_link "e56419f5-2b3f-413e-830f-1af5f94640ae" "MATLAB tutorials, including MATLAB Onramp" %}}, and {{% resource_link "2d208480-91a3-4366-b306-970ec0cb25fd" "MATLAB documentation" %}}, including a {{% resource_link "4ce6358f-719a-4e91-b32d-260e9da60dff" "MATLAB Primer (PDF - 2.4MB)" %}}.
+Mathworks, Inc. [MATLAB tutorials, including MATLAB Onramp](http://www.mathworks.com/academia/student_center/tutorials/mltutorial_launchpad.html), and [MATLAB documentation](http://www.mathworks.com/help/matlab/), including a [MATLAB Primer (PDF - 2.4MB)](http://web.mit.edu/6.777/www/downloads/primer.pdf).
 
-Šćepanović, Danilo. {{% resource_link "c8072d2c-c53a-4b21-bbd6-88184cae54a5" "*6.094 Introduction to MATLAB*" %}}, January 2010. MIT OpenCourseWare.
+Šćepanović, Danilo. [*6.094 Introduction to MATLAB*](https://ocw-studio.odl.mit.edu/courses/6-057-introduction-to-matlab-january-iap-2019), January 2010. MIT OpenCourseWare.
 
-Science Education Resource Center, Carleton College. {{% resource_link "ad277ced-fc10-41be-a550-1f6005c51374" "*Teaching Computation in the Sciences*" %}}.
+Science Education Resource Center, Carleton College. [*Teaching Computation in the Sciences*](https://serc.carleton.edu/teaching_computation/index.html).
 
-Springer, M., and R. Born. {{% resource_link "863c06d7-f108-41ab-9fed-8a0450c1e375" "*Boot Camp in Quantitative Methods*" %}}, based on the course *Neurobiology 306qc: Quantitative Methods for Biologists* taught at Harvard University.
+Springer, M., and R. Born. [*Boot Camp in Quantitative Methods*](http://springerlab.org/qmbc/index.php), based on the course *Neurobiology 306qc: Quantitative Methods for Biologists* taught at Harvard University.
 
 Wallisch, P., M. Lusignan, et al. *MATLAB for Neuroscientists: An Introduction to Scientific Computing in MATLAB\_*, Second Edition\_. Academic Press, 2008. ISBN: 9780123745514.

@@ -4,6 +4,8 @@ description: Photo of young boy building a tower of blocks.
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/4a944d1b29766a0b6f682f7a1ed13062_unit3.jpg
 file_size: 43588
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: How does a child develop the knowledge of physical objects and their behavior
     needed to create a simple stack of blocks? Innovative methods to probe infants'

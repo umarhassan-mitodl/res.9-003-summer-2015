@@ -5,6 +5,8 @@ description: This file contains information regarding infants' sensitivity to co
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/d655fd70d1880f79aed14110cee90d41_MITRES_9_003SUM15_sem3_som.pdf
 file_size: 6744258
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

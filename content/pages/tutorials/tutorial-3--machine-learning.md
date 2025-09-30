@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This page presents a video-based tutorial on machine learning.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Tutorials
@@ -53,15 +55,15 @@ Unit Activities
 
 ### Machine Learning Lab Exercises
 
-This {{% resource_link "d6d41f44-9d48-4f7c-ac04-8d219f7787b1" "website for the Machine Learning Day" %}} was prepared by Lorenzo Rosasco and Georgios Evangelopoulos for the 2016 Brains, Minds, and Machines summer course. It contains descriptions of lab activities related to the machine learning methods presented in the above tutorial videos, with supporting MATLAB code and data files that can be downloaded from the website.
+This [website for the Machine Learning Day](https://cbmm.mit.edu/machine-learning-day) was prepared by Lorenzo Rosasco and Georgios Evangelopoulos for the 2016 Brains, Minds, and Machines summer course. It contains descriptions of lab activities related to the machine learning methods presented in the above tutorial videos, with supporting MATLAB code and data files that can be downloaded from the website.
 
 Further Study
 -------------
 
-This tutorial is based in part on the MIT course {{% resource_link "a3a6a3ca-b2e3-4506-a94d-7bea63b30bbf" "_9.520 Statistical Learning Theory and Applications_" %}}. Materials from the MIT course [_6.867 Machine Learning_](/courses/6-867-machine-learning-fall-2006), taught by Tommi Jaakkola, are available on MIT OpenCourseWare. Free online courses on machine learning are also available through {{% resource_link "e9de0b9e-c5db-4339-bf99-36ed719ca1b8" "edX" %}} (search for "machine learning").
+This tutorial is based in part on the MIT course [_9.520 Statistical Learning Theory and Applications_](http://www.mit.edu/~9.520/fall16/). Materials from the MIT course [_6.867 Machine Learning_](/courses/6-867-machine-learning-fall-2006), taught by Tommi Jaakkola, are available on MIT OpenCourseWare. Free online courses on machine learning are also available through [edX](https://www.edx.org/) (search for "machine learning").
 
-Bishop, C. M. {{% resource_link "37b39201-7c76-4e04-8bad-95276df041bd" "_Pattern Recognition and Machine Learning_" %}}. Springer, 2007. ISBN: 9780387310732.
+Bishop, C. M. [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/people/cmbishop/#prml-book). Springer, 2007. ISBN: 9780387310732.
 
-Rosasco, L. {{% resource_link "dc979fab-a503-4c04-bca8-3f4f38cff03e" "\"Introductory Machine Learning Notes.\" (PDF)" %}} (2016).
+Rosasco, L. ["Introductory Machine Learning Notes." (PDF)](http://lcsl.mit.edu/courses/cbmmss/machine_learning/notes/MLNotes_Oct16.pdf) (2016).
 
-Hastle, T., R. Tibshirani, and J. Friedman. _The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd Edition (Springer Series in Statistics)_. Springer, 2009. ISBN: 9780387848570. \[Preview with {{% resource_link "ec834d21-5b35-4c03-bf9f-ddf9ce2001b2" "Google Books" %}}\]
+Hastle, T., R. Tibshirani, and J. Friedman. _The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd Edition (Springer Series in Statistics)_. Springer, 2009. ISBN: 9780387848570. \[Preview with [Google Books](http://books.google.com/books?id=tVIjmNS3Ob8C&pg=PAfrontcover)\]

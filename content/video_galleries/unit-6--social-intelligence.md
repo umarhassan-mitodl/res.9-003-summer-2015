@@ -2,6 +2,8 @@
 content_type: video_gallery
 description: This page summarizes the unit topic and activities, and links to lecture
   videos, notes and further study resources.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
@@ -63,20 +65,20 @@ Further Study
 
 Additional information about the speakers' research and publications can be found at their websites:
 
-*   {{% resource_link "8582f4fb-e208-45a8-97ab-5b1b8620f3a6" "Nancy Kanwisher, MIT" %}}
-*   {{% resource_link "2973ee0f-a5ee-4f5a-802e-fcf37c3e8242" "Ken Nakayama, Vision Sciences Lab, Harvard" %}}
-*   {{% resource_link "2a0b63c9-f0c2-4474-89dc-2842d2e376df" "Rebecca Saxe, MIT" %}}
+*   [Nancy Kanwisher, MIT](http://web.mit.edu/bcs/nklab/)
+*   [Ken Nakayama, Vision Sciences Lab, Harvard](http://visionlab.harvard.edu/members/ken/nakayama.html)
+*   [Rebecca Saxe, MIT](http://saxelab.mit.edu/)
 
-Deen, B., K. Koldewyn, et al. "{{% resource_link "dc8752fd-54cb-4d12-a1ea-0459c2d4119e" "Functional Organization of Social Perception and Cognition in the Superior Temporal Sulcus" %}}." _Cerebral Cortex_ 25, no. 11 (2015): 4596–4609.
+Deen, B., K. Koldewyn, et al. "[Functional Organization of Social Perception and Cognition in the Superior Temporal Sulcus](https://doi.org/10.1093/cercor/bhv111)." _Cerebral Cortex_ 25, no. 11 (2015): 4596–4609.
 
-Duchaine, B., and K. Nakayama. "{{% resource_link "588ee571-a510-4011-8a5b-f4eb37457f4a" "The Cambridge Face Memory Test: Results for Neurologically Intact Individuals and an Investigation of its Validity Using Inverted Face Stimuli and Prosopagnosic Participants" %}}." _Neuropsychologia_ 44, no. 4 (2006): 576–85.
+Duchaine, B., and K. Nakayama. "[The Cambridge Face Memory Test: Results for Neurologically Intact Individuals and an Investigation of its Validity Using Inverted Face Stimuli and Prosopagnosic Participants](https://www.researchgate.net/profile/Ken_Nakayama/publication/7593331_The_Cambridge_Face_Memory_Test_results_for_neurologically_intact_individuals_and_an_investigation_of_its_validity_using_inverted_face_stimuli_and_prosopagnosic_participants/)." _Neuropsychologia_ 44, no. 4 (2006): 576–85.
 
-Koster-Hale, J., and R. Saxe. {{% resource_link "00c47150-fc61-4609-81f0-f8cf4c0d5b19" "\"Theory of Mind: A Neural Prediction Problem.\" (PDF)" %}} _Neuron 79_ (2013): 836–48.
+Koster-Hale, J., and R. Saxe. ["Theory of Mind: A Neural Prediction Problem." (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4041537/pdf/nihms-586350.pdf) _Neuron 79_ (2013): 836–48.
 
-Koster-Hale, J., M. Bedny, et al. {{% resource_link "40a9d4b4-b2c2-4c9c-a160-9d2aa4d468f7" "\"Thinking About Seeing: Perceptual Sources of Knowledge are Encoded in the Theory of Mind Brain Regions of Sighted and Blind Adults.\" (PDF - 1.2MB)" %}} _Cognition_ 133 (2014): 65–78.
+Koster-Hale, J., M. Bedny, et al. ["Thinking About Seeing: Perceptual Sources of Knowledge are Encoded in the Theory of Mind Brain Regions of Sighted and Blind Adults." (PDF - 1.2MB)](https://www.sciencedirect.com/science/article/pii/S0010027714000675) _Cognition_ 133 (2014): 65–78.
 
-Peterson, M. F., J. Lin, et al. {{% resource_link "861e8470-f99a-4ea2-809d-2b4a1ec82dac" "\"Individual Differences in Face Looking Behavior Generalize from the Lab to the World.\" (PDF - 62.7MB)" %}} _Journal of Vision_ 16, no. 7 (2016): 1–18.
+Peterson, M. F., J. Lin, et al. ["Individual Differences in Face Looking Behavior Generalize from the Lab to the World." (PDF - 62.7MB)](http://web.mit.edu/bcs/nklab/media/pdfs/PetersonJOV2016.pdf) _Journal of Vision_ 16, no. 7 (2016): 1–18.
 
-Skerry, A. E., and R. Saxe. {{% resource_link "9db9646f-a614-4da5-8da6-85207a2403dd" "\"Neural Representations of Emotion are Organized Around Abstract Event Features.\" (PDF - 2.1MB)" %}} _Current Biology_ 15 (2015): 1–10.
+Skerry, A. E., and R. Saxe. ["Neural Representations of Emotion are Organized Around Abstract Event Features." (PDF - 2.1MB)](https://dspace.mit.edu/handle/1721.1/107225) _Current Biology_ 15 (2015): 1–10.
 
-Vaziri-Pashkam, M., S. Cormiea, et al. {{% resource_link "5f857d79-35f8-4d9d-ac05-70a7c0634f1f" "\"Predicting Actions Before They Occur.\" (PDF - 1.4MB)" %}} _Center for Brains, Minds & Machines_, Memo No. 038 (2015).
+Vaziri-Pashkam, M., S. Cormiea, et al. ["Predicting Actions Before They Occur." (PDF - 1.4MB)](http://cbmm.mit.edu/sites/default/files/publications/CBMMMemo038.pdf) _Center for Brains, Minds & Machines_, Memo No. 038 (2015).

@@ -2,6 +2,8 @@
 content_type: video_gallery
 description: This page summarizes the goals and context of the project component in
   the summer course, and links to a page with more detail on proposed project ideas.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Projects

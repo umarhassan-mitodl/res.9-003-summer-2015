@@ -59,27 +59,27 @@ A panel of robotics experts led by Patrick Winston discuss topics such as genera
 
 Additional information about the speakers' research and publications can be found at their websites:
 
-- {{% resource_link "b7e17d48-f414-40e3-93d6-880b758d7332" "John Leonard, Marine Robotics Group, MIT" %}}
-- {{% resource_link "d6439097-451a-4821-bc2f-772b6bf95a4a" "Giorgio Metta, Italian Institute of Technology" %}}
-- {{% resource_link "df81ec0c-1dfa-4f85-9147-730b9548f6f1" "Tony Prescott, Sheffield Centre for Robotics, Sheffield University" %}}
-- {{% resource_link "505cbae8-fa6b-4622-8c50-ede878a1c2a8" "Russ Tedrake, Robot Locomotion Group, MIT" %}}
-- {{% resource_link "9a3ab4b0-bac8-4208-b2a9-1abbbc6e088e" "Stefanie Tellex, Brown University" %}}
-- iCub Team: {{% resource_link "dfbb4458-a8dc-4a89-a8c3-1f42b72e93f7" "Carlo Ciliberto" %}}, {{% resource_link "91432a9e-b50f-4f64-a022-52680e57b10f" "Alessandro Roncone" %}}, {{% resource_link "34f36fa0-3203-4aee-8b76-c0a86565a8db" "Raffaello Camoriano" %}}, {{% resource_link "043091a1-de96-4088-bd61-670902979ce3" "Giulia Pasquale" %}}
+- [John Leonard, Marine Robotics Group, MIT](http://marinerobotics.mit.edu/)
+- [Giorgio Metta, Italian Institute of Technology](https://www.iit.it/people/giorgio-metta)
+- [Tony Prescott, Sheffield Centre for Robotics, Sheffield University](https://www.sheffield.ac.uk/dcs/people/academic/tprescott)
+- [Russ Tedrake, Robot Locomotion Group, MIT](https://groups.csail.mit.edu/locomotion/index.html)
+- [Stefanie Tellex, Brown University](http://cs.brown.edu/~stefie10/)
+- iCub Team: [Carlo Ciliberto](https://www.iit.it/people/carlo-ciliberto), [Alessandro Roncone](http://scazlab.yale.edu/people/alessandro-roncone), [Raffaello Camoriano](https://www.iit.it/people/raffaello-camoriano), [Giulia Pasquale](https://www.iit.it/people/giulia-pasquale)
 
-Learn more about the iCub project, including recent publications, at the {{% resource_link "6791ccf5-c149-416d-b560-9ad615d10d30" "iCub humanoid robot project site" %}} within the website for the {{% resource_link "cf16dba8-b7b9-495e-a155-2369778b2014" "Italian Institute of Technology" %}}.
+Learn more about the iCub project, including recent publications, at the [iCub humanoid robot project site](https://www.iit.it/research/lines/icub) within the website for the [Italian Institute of Technology](https://www.iit.it/).
 
-Fallon, M., S. Kuindersma, et al. {{% resource_link "320314ff-2860-409f-bdc1-74b5ffa55c87" "\"An Architecture for Online Affordance-Based Perception and Whole-Body Planning.\" (PDF - 21.5MB)" %}} *Journal of Field Robotics* 32, no. 2 (2014): 229–54.
+Fallon, M., S. Kuindersma, et al. ["An Architecture for Online Affordance-Based Perception and Whole-Body Planning." (PDF - 21.5MB)](http://groups.csail.mit.edu/robotics-center/public_papers/Fallon14.pdf) *Journal of Field Robotics* 32, no. 2 (2014): 229–54.
 
-Grant, R. A., A. L. Sperber, et al. "{{% resource_link "23f14b98-7f0b-4eef-8d27-b0d85c15d3e3" "The Role of Orienting in Vibrissal Touch Sensing" %}}." *Frontiers in Behavioral Neuroscience* 6, no. 39 (2012): 1–12.
+Grant, R. A., A. L. Sperber, et al. "[The Role of Orienting in Vibrissal Touch Sensing](http://journal.frontiersin.org/article/10.3389/fnbeh.2012.00039/full)." *Frontiers in Behavioral Neuroscience* 6, no. 39 (2012): 1–12.
 
-Kuindersma, S., R. Deits, et al. {{% resource_link "816427b2-d507-40f3-8ae3-00765e001817" "\"Optimization-Based Locomotion Planning, Estimation, and Control Design for the Atlas Humanoid Robot.\" (PDF - 30.6MB)" %}} *Autonomous Robots* 40, no. 3 (2016): 429–55.
+Kuindersma, S., R. Deits, et al. ["Optimization-Based Locomotion Planning, Estimation, and Control Design for the Atlas Humanoid Robot." (PDF - 30.6MB)](http://groups.csail.mit.edu/robotics-center/public_papers/Kuindersma14.pdf) *Autonomous Robots* 40, no. 3 (2016): 429–55.
 
-Leonard, J. {{% resource_link "f31a3359-69fa-4059-af29-c82a0b69887a" "\"A Perception-Driven Autonomous Urban Vehicle.\" (PDF - 1.8MB)" %}} *Journal of Field Robotics* 25, no. 10 (2008): 724–74. (28 authors)
+Leonard, J. ["A Perception-Driven Autonomous Urban Vehicle." (PDF - 1.8MB)](http://people.csail.mit.edu/teller/pubs/LeonardEtAlJFR2008.pdf) *Journal of Field Robotics* 25, no. 10 (2008): 724–74. (28 authors)
 
-Oberlin, J., and S. Tellex. {{% resource_link "3995a868-9b50-468d-b1ea-c9e428745572" "\"Autonomously Acquiring Instance-Based Object Models from Experience.\" (PDF - 1.2MB)" %}} *International Symposium on Robotics Research* (2015).
+Oberlin, J., and S. Tellex. ["Autonomously Acquiring Instance-Based Object Models from Experience." (PDF - 1.2MB)](http://h2r.cs.brown.edu/wp-content/uploads/2015/08/oberlin15isrr.pdf) *International Symposium on Robotics Research* (2015).
 
-Pearson, M. J., C. Fox, et al. {{% resource_link "c0f5c9e7-c2b1-4bb8-a8cc-699d3508ff5c" "\"Simultaneous Localisation and Mapping on a Multi-Degree of Freedom Biomimetic Whiskered Robot.\"" %}} (PDF - 2.0MB) *Proceedings IEEE International Conference on Robotics and Automation (ICRA), Karlsruhe* (2013): 586–92.
+Pearson, M. J., C. Fox, et al. ["Simultaneous Localisation and Mapping on a Multi-Degree of Freedom Biomimetic Whiskered Robot."](https://eprints.whiterose.ac.uk/108453/1/tSLAM2_vs1.1.pdf) (PDF - 2.0MB) *Proceedings IEEE International Conference on Robotics and Automation (ICRA), Karlsruhe* (2013): 586–92.
 
-Tellex, S., R. A. Knepper, et al. {{% resource_link "5186ebc2-8b65-403b-9ef0-caa3539fd30d" "\"Asking for Help Using Inverse Semantics.\" (PDF - 2.6MB)" %}} *Proceedings Robotics: Science and Systems* (Berkeley, CA) (2014).
+Tellex, S., R. A. Knepper, et al. ["Asking for Help Using Inverse Semantics." (PDF - 2.6MB)](http://www.roboticsproceedings.org/rss10/p24.pdf) *Proceedings Robotics: Science and Systems* (Berkeley, CA) (2014).
 
-Whelan, T., M. Kaess, et al. "{{% resource_link "68d821af-d05c-4233-9fe6-1d0bd3e8c362" "Real-Time Large-Scale Dense RGB-D SLAM with Volumetric Fusion" %}}." *The International Journal of Robotics Research* 34, no. 4–5 (2015): 598–626.
+Whelan, T., M. Kaess, et al. "[Real-Time Large-Scale Dense RGB-D SLAM with Volumetric Fusion](http://dspace.mit.edu/handle/1721.1/97583)." *The International Journal of Robotics Research* 34, no. 4–5 (2015): 598–626.

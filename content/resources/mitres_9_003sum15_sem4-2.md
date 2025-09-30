@@ -5,6 +5,8 @@ description: "This resource contains information regarding \uFEFFcomputer vision
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/c6d337a0db1b0476eb8f8643d0766589_MITRES_9_003SUM15_sem4-2.pdf
 file_size: 3482524
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/789561811a6303e89dc794a00a310b9a_pquNMjlgPwI.srt
 file_size: 71264
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

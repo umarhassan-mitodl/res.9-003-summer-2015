@@ -5,6 +5,8 @@ description: This resource contains the information regarding language to vision
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/feef4cf4fdfa5b76cc8d1b7ec8b3c71c_MITRES_9_003SUM15_Lec5-2.pdf
 file_size: 2445235
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

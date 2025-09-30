@@ -6,6 +6,8 @@ description: 'Legend: What makes an image memorable? Using insights from percept
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/b44faeaf035bc4fc1c98f93e902f29ed_unit4.jpg
 file_size: 95191
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: 'Legend: What makes an image memorable? Using insights from perceptual
     experiments, fMRI studies, and computational modeling, Aude Oliva has identified

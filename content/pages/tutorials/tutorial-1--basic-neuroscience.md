@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This page presents a video-based tutorial on basic neuroscience.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Tutorials
@@ -53,4 +55,4 @@ Further Study
 
 Basic neuroscience concepts and methods are introduced in several courses published on [MIT OpenCourseWare](./resolveuid/05fcbd61fbc5de632b9274d820e4fd60), including [_9.00SC Introduction to Psychology_](/courses/9-00sc-introduction-to-psychology-fall-2011) taught by John Gabrieli, [_9.01 Introduction to Neuroscience_](/courses/9-01-introduction-to-neuroscience-fall-2007) taught by Mark Bear and Sebastian Seung, [_9.04 Sensory Systems_](/courses/9-04-sensory-systems-fall-2013) taught by Peter Schiller and Christian Brown, and [_9.10 Cognitive Neuroscience_](/courses/9-10-cognitive-neuroscience-spring-2006) taught by Suzanne Corkin.
 
-An online search for any of the topics covered in this tutorial will yield many pointers to useful background material. The Society for Neuroscience hosts an {{% resource_link "1e6a931b-2c79-4f2f-857a-d9fd249f737d" "Education Resources in Neuroscience" %}} portal that contains extensive online resources for teaching and learning neuroscience. Educational resources can also be found on this {{% resource_link "22aeb041-2d3c-4f0c-8e29-93db6d13ef8f" "Neuroscience Resource Guide" %}} page at Psychology Degree Guide website.
+An online search for any of the topics covered in this tutorial will yield many pointers to useful background material. The Society for Neuroscience hosts an [Education Resources in Neuroscience](https://www.sfn.org/Initiatives/Public-Education-Programs) portal that contains extensive online resources for teaching and learning neuroscience. Educational resources can also be found on this [Neuroscience Resource Guide](http://psychologydegreeguide.org/neuroscience-resource-guide/) page at Psychology Degree Guide website.

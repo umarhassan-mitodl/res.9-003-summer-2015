@@ -8,6 +8,8 @@ description: Visualization of the results of principal components analysis appli
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/ccf77ab85d5593babc2e33ad552f3a74_tutor3.jpg
 file_size: 95405
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Visualization of the results of principal components analysis applied to
     high-dimensional data capturing visual properties of handwritten digits. The data

@@ -8,6 +8,8 @@ description: How do we recognize the source of a sound texture, such as the soun
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/c184198aec04736fc5ee84b08da84cbd_unit7.jpg
 file_size: 83387
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: How do we recognize the source of a sound texture, such as the sound of
     insects or waves? Josh McDermott and colleagues propose a model of this process

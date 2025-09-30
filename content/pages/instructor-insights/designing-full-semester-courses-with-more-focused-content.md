@@ -2,6 +2,8 @@
 content_type: page
 description: In this section, Prof. Ellen Hildreth shares how materials offered through
   this OCW course can be used to design full-semester courses with more focused content.
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -16,7 +18,7 @@ video_metadata:
 
 _In this section, Prof. Ellen Hildreth shares how materials offered through this OCW course can be used to design full-semester courses with more focused content._
 
-The course _9.523 Aspects of a Computational Theory of Intelligence_ was designed in part to expose students to the broad scope of research conducted in the {{% resource_link "87418fd0-b211-4b4d-9f4d-a8dc6417802e" "Center for Brains, Minds, and Machines" %}}. The content of the {{% resource_link "f3d4ab4e-cc1f-421b-b88c-c10b856c9802" "_Brains, Minds & Machines_ summer course" %}} is even broader (and evolves every year!), and far more extensive than could be covered in a single semester course. The summer course materials available through this OCW course provide a rich resource for the design of other courses that have a narrower intellectual scope. Two examples are elaborated below:
+The course _9.523 Aspects of a Computational Theory of Intelligence_ was designed in part to expose students to the broad scope of research conducted in the [Center for Brains, Minds, and Machines](http://cbmm.mit.edu/). The content of the [_Brains, Minds & Machines_ summer course](http://cbmm.mit.edu/summer-school) is even broader (and evolves every year!), and far more extensive than could be covered in a single semester course. The summer course materials available through this OCW course provide a rich resource for the design of other courses that have a narrower intellectual scope. Two examples are elaborated below:
 
 (1) The Development of Intelligence
 -----------------------------------

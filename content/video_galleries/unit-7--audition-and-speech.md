@@ -28,7 +28,7 @@ videos:
 
 How do we recognize the source of a sound texture, such as the sound of insects or waves? Josh McDermott and colleagues propose a model of this process that uses statistics of the frequency content of the sounds, and the modulation of this content over time, depicted in these spectrograms (bottom) and plots of modulation power (top).
 
-(Courtesy of Elsevier, Inc., {{% resource_link "2bc2cc1d-d14b-4160-a3f4-29b20f6ffd94" "http://www.sciencedirect.com" %}}. Used with permission. Source: McDermott, Josh H., and Eero P. Simoncelli. "Sound texture perception via statistics of the auditory periphery: evidence from sound synthesis." *Neuron* 71, no. 5 (2011): 926-940.)
+(Courtesy of Elsevier, Inc., [http://www.sciencedirect.com](http://www.sciencedirect.com). Used with permission. Source: McDermott, Josh H., and Eero P. Simoncelli. "Sound texture perception via statistics of the auditory periphery: evidence from sound synthesis." *Neuron* 71, no. 5 (2011): 926-940.)
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -61,21 +61,21 @@ A panel of experts in vision and hearing reflect on the similarities and differe
 
 Additional information about the speakers' research and publications can be found at their websites:
 
-- {{% resource_link "16f5f281-d1fc-487b-a0af-62beff7270a9" "Josh McDermott, MIT" %}}
-- {{% resource_link "8582f4fb-e208-45a8-97ab-5b1b8620f3a6" "Nancy Kanwisher, MIT" %}}
-- {{% resource_link "8ebab969-4c2f-4762-a918-8266023f484d" "Hynek Hermansky, Johns Hopkins University" %}}
-- {{% resource_link "473c8a18-d358-43e2-8d21-1bc3f74344a4" "Dan Yamins, MIT" %}}
+- [Josh McDermott, MIT](http://web.mit.edu/jhm/www/)
+- [Nancy Kanwisher, MIT](http://web.mit.edu/bcs/nklab/)
+- [Hynek Hermansky, Johns Hopkins University](http://www.clsp.jhu.edu/faculty-pages/hynek/)
+- [Dan Yamins, MIT](https://stanford.edu/~yamins/)
 
-Hermansky, H., J. R. Cohen, et al. {{% resource_link "8ffae990-bb1a-4652-a821-9107095a9633" "\"Perceptual Properties of Current Speech Recognition Technology.\" (PDF - 1.7MB)" %}} *Proceedings of the IEEE* 101, no. 9 (2013): 1968–85.
+Hermansky, H., J. R. Cohen, et al. ["Perceptual Properties of Current Speech Recognition Technology." (PDF - 1.7MB)](https://pdfs.semanticscholar.org/74d6/361cebb53002863fd32b161190bd2dd63b11.pdf) *Proceedings of the IEEE* 101, no. 9 (2013): 1968–85.
 
-McDermott, J. H. {{% resource_link "11742d74-4829-4b96-acdc-d4dfe10c8226" "\"The Cocktail Party Problem.\" (PDF)" %}} *Current Biology* 19, no. 22 (2009): R1024–27.
+McDermott, J. H. ["The Cocktail Party Problem." (PDF)](http://mcdermottlab.mit.edu/papers/McDermott_2010_cocktail_party_problem.pdf) *Current Biology* 19, no. 22 (2009): R1024–27.
 
-———. {{% resource_link "cd6e9673-dd65-4775-aacf-d9d04afd7cff" "\"Audition.\" (PDF - 1.1MB)" %}} In *Oxford Handbook of Cognitive Neuroscience Two Volume Set (Oxford Library of Psychology)*, Edited by K. N. Ochsner and S. Kosslyn. Oxford University Press, 2013. ISBN: 9780195381597.
+———. ["Audition." (PDF - 1.1MB)](http://cs.wellesley.edu/~vision/papers/McDermott_2013_Audition.pdf) In *Oxford Handbook of Cognitive Neuroscience Two Volume Set (Oxford Library of Psychology)*, Edited by K. N. Ochsner and S. Kosslyn. Oxford University Press, 2013. ISBN: 9780195381597.
 
-McDermott, J. H., M. Schemitsch, et al. {{% resource_link "e98d7be1-c034-4d5c-b4b0-9491b4559f42" "\"Summary Statistics in Auditory Perception.\" (PDF - 2.9MB)" %}} *Nature Neuroscience* 16, no. 4 (2013): 493–98.
+McDermott, J. H., M. Schemitsch, et al. ["Summary Statistics in Auditory Perception." (PDF - 2.9MB)](http://mcdermottlab.mit.edu/papers/McDermott_Schemitsch_Simoncelli_2013_summary_statistics.pdf) *Nature Neuroscience* 16, no. 4 (2013): 493–98.
 
-McDermott, J. H., and E. P. Simoncelli. "{{% resource_link "de1ff6dc-7c13-4c81-a7a1-c0f17cc627a0" "Sound Texture Perception via Statistics of the Auditory Periphery: Evidence from Sound Synthesis" %}}." *Neuron* 71 (2011): 926–40.
+McDermott, J. H., and E. P. Simoncelli. "[Sound Texture Perception via Statistics of the Auditory Periphery: Evidence from Sound Synthesis](https://doi.org/10.1016/j.neuron.2011.06.032)." *Neuron* 71 (2011): 926–40.
 
-Norman-Haignere, S., N. Kanwisher, et al. {{% resource_link "5d9d8aee-f14e-43a6-b25c-15ed088d0dd6" "\"Distinct Cortical Pathways for Music and Speech Revealed by Hypothesis-Free Voxel Decomposition.\" (PDF - 10.3MB)" %}} *Neuron* 88, no. 6 (2015): 1281–96.
+Norman-Haignere, S., N. Kanwisher, et al. ["Distinct Cortical Pathways for Music and Speech Revealed by Hypothesis-Free Voxel Decomposition." (PDF - 10.3MB)](http://web.mit.edu/bcs/nklab/media/pdfs/SVNH_NGK_JMD_2015.pdf) *Neuron* 88, no. 6 (2015): 1281–96.
 
-Yamins, D., and J. J. DiCarlo. "{{% resource_link "6c30e56e-c30b-41d4-8905-ca9cfd6a1090" "Using Goal-Driven Deep Learning Models to Understand Sensory Cortex" %}}." *Nature Neuroscience* 19, no. 3 (2016): 356–65.
+Yamins, D., and J. J. DiCarlo. "[Using Goal-Driven Deep Learning Models to Understand Sensory Cortex](http://dx.doi.org/10.1038/nn.4244)." *Nature Neuroscience* 19, no. 3 (2016): 356–65.

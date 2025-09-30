@@ -8,6 +8,8 @@ description: "Josh Tenenbaum and colleagues propose that our intuitions about pr
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/a3dd614457fbef82c3c8cc776d7db243_unit2.jpg
 file_size: 83474
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "Josh Tenenbaum and colleagues propose that our intuitions about properties\
     \ like the stability of a stack of objects, may derive from \u201Cprobabilistic\

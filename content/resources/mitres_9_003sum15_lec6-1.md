@@ -5,6 +5,8 @@ description: 'This resource contains information regarding brains, minds and mac
 file: /courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/a96f83121b4b4c673fa9a4a51ec9dde1_MITRES_9_003SUM15_lec6-1.pdf
 file_size: 1404110
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
