@@ -2,8 +2,6 @@
 content_type: page
 description: This page summarizes the tutorial topics and activities, and links to
   individual tutorial pages containing videos, notes and further study resources.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tutorials
 ocw_type: SupplementalResourceSection
@@ -24,4 +22,4 @@ The tutorial topics are:
 5.  {{% resource_link 32907aca-b7d5-1972-49b3-b36fb769ce08 "Church Programming" %}}
 6.  {{% resource_link 7e2b7b55-eaa4-6494-579e-611d46d28b3a "Amazon Mechanical Turk" %}}
 
-Materials for additional tutorials can be found at the [Brains, Minds and Machines Summer Course](http://cbmm.mit.edu/summer-school) website.
+Materials for additional tutorials can be found at the {{% resource_link "c365f206-3f48-45c7-a6d7-b5752ba66ba2" "Brains, Minds and Machines Summer Course" %}} website.

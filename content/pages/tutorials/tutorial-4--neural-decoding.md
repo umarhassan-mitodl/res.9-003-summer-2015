@@ -52,10 +52,10 @@ Unit Activities
 Further Study
 -------------
 
-Meyers, E. "[The Neural Decoding Toolbox](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3660664/)." _Frontiers in Neuroinformatics_ 7, no. 8 (2013).
+Meyers, E. "{{% resource_link "1245ac97-02fb-4189-9fff-87c7ae66a5c0" "The Neural Decoding Toolbox" %}}." _Frontiers in Neuroinformatics_ 7, no. 8 (2013).
 
-Also see the website for the [Neural Decoding Toolbox](http://www.readout.info/).
+Also see the website for the {{% resource_link "201cd8cb-7479-417b-a44d-db2f4444dba8" "Neural Decoding Toolbox" %}}.
 
-Meyers, E., M. Borzello, et al. ["Intelligent Information Loss: The Coding of Facial Identity, Head Pose, and Non-Face Information in the Macaque Face Patch System." (PDF)](http://emeyers.scripts.mit.edu/emeyers/wp-content/uploads/2015/05/Meyers_JNeurosci_2015.pdf) _The Journal of Neuroscience_ 35, no. 18 (2015): 7069–81.
+Meyers, E., M. Borzello, et al. {{% resource_link "22464b3f-f392-42e7-8bc0-caf45331f863" "\"Intelligent Information Loss: The Coding of Facial Identity, Head Pose, and Non-Face Information in the Macaque Face Patch System.\" (PDF)" %}} _The Journal of Neuroscience_ 35, no. 18 (2015): 7069–81.
 
-Zhang, Y., E. M. Meyers, et al. ["Object Decoding with Attention in Inferior Temporal Cortex." (PDF)](http://www.pnas.org/content/108/21/8850.full.pdf) _Proceedings of the National Academy of Sciences_ 108, no. 21 (2011): 8850–55.
+Zhang, Y., E. M. Meyers, et al. {{% resource_link "70b893f8-7525-489c-a017-68abd48cc28e" "\"Object Decoding with Attention in Inferior Temporal Cortex.\" (PDF)" %}} _Proceedings of the National Academy of Sciences_ 108, no. 21 (2011): 8850–55.

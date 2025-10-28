@@ -3,8 +3,6 @@ content_type: page
 description: In this section, Prof. Ellen Hildreth shares how she and her colleagues
   maintain intellectual coherence in a course that explores a wide range of topics
   related to intelligence.
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -22,7 +20,7 @@ _In this section, Prof. Ellen Hildreth shares how she and her colleagues maintai
 
 {{< quote "Through class discussions, students themselves probed the connections between different aspects of intelligent behavior explored in the course." "— Ellen Hildreth" >}}
 
-With a course that integrates lectures from so many speakers on such a wide range of topics, it is easy to lose sight of the _big picture_ that ties the content together. The close and sustained interactions between the instructors and guest speakers through their participation in the _Brains, Minds, and Machines_ summer course and research of the [Center for Brains, Minds, and Machines](http://cbmm.mit.edu/), strengthens the intellectual coherence of the course content. Through class discussions, students themselves probed the connections between different aspects of intelligent behavior explored in the course. Topics were also united by common themes weaved into lectures and recitations, captured in broad questions such as the following:
+With a course that integrates lectures from so many speakers on such a wide range of topics, it is easy to lose sight of the _big picture_ that ties the content together. The close and sustained interactions between the instructors and guest speakers through their participation in the _Brains, Minds, and Machines_ summer course and research of the {{% resource_link "8bd2499e-45c4-4db3-b9b6-148c77e12de5" "Center for Brains, Minds, and Machines" %}}, strengthens the intellectual coherence of the course content. Through class discussions, students themselves probed the connections between different aspects of intelligent behavior explored in the course. Topics were also united by common themes weaved into lectures and recitations, captured in broad questions such as the following:
 
 *   How does the mind process sensory information to produce intelligent behavior, and how can we design intelligent computer algorithms that behave similarly?
 *   What is the structure and form of human knowledge – how is it stored, represented and organized?
