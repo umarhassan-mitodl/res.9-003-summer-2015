@@ -13,18 +13,18 @@ video_metadata:
 ---
 ## Course Overview
 
-Elements of the [Brains, Minds, and Machines (BMM) summer course](http://cbmm.mit.edu/summer-school) are integrated into the MIT course, *9.523 Aspects of a Computational Theory of Intelligence.* This page focuses on *9.523* as it was taught by Profs. Tomaso Poggio, Shimon Ullman, Patrick Winston, and Ellen Hildreth (Wellesley College) in Fall 2015. It also provides insight into how materials from the Brains, Minds, and Machines (BMM) summer course can be used to form the basis of full-semester courses at other institutions.
+Elements of the {{% resource_link "c365f206-3f48-45c7-a6d7-b5752ba66ba2" "Brains, Minds, and Machines (BMM) summer course" %}} are integrated into the MIT course, *9.523 Aspects of a Computational Theory of Intelligence.* This page focuses on *9.523* as it was taught by Profs. Tomaso Poggio, Shimon Ullman, Patrick Winston, and Ellen Hildreth (Wellesley College) in Fall 2015. It also provides insight into how materials from the Brains, Minds, and Machines (BMM) summer course can be used to form the basis of full-semester courses at other institutions.
 
 Like the summer course, *9.523* *Aspects of a Computational Theory of Intelligence* introduced students to research on intelligence that integrates the perspectives of neuroscience, cognitive science, and computation, with the aim of understanding how intelligent behavior is produced by the brain and how it can be replicated in machines.
 
-An [archive of the Fall 2015 website](http://cs.wellesley.edu/~vision/) is available, which includes course information, schedule, assignments, and readings. 
+An {{% resource_link "8fb9ad85-9155-4466-b885-2226f26c84db" "archive of the Fall 2015 website" %}} is available, which includes course information, schedule, assignments, and readings. 
 
 ## Course Outcomes
 
 ### Course Goals for Students
 
 - Learn to think critically about how to integrate empirical and computational approaches to the study of intelligence
-- Learn about current interdisciplinary research on intelligence, including research in the [Center for Brains, Minds, and Machines](http://cbmm.mit.edu)
+- Learn about current interdisciplinary research on intelligence, including research in the {{% resource_link "c15d7639-0d4a-4384-9197-0c650d69be8e" "Center for Brains, Minds, and Machines" %}}
 - Develop skills in written and oral research communication 
 
 ### Possibilities for Further Study/Careers
