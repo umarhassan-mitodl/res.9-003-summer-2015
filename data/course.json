@@ -50,8 +50,8 @@
     "website": "res-9-003-brains-minds-and-machines-summer-course-summer-2015"
   },
   "course_title": "Brains, Minds and Machines Summer Course",
-  "hide_download": true,
-  "course_description": "This course explores the problem of intelligence\u2014its nature, how it is produced by the brain and how it could be replicated in machines\u2014using an approach that integrates cognitive science, which studies the mind; neuroscience, which studies the brain; and computer science and artificial intelligence, which study the computations needed to develop intelligent machines. Materials are drawn from the [Brains, Minds and Machines Summer Course](http://cbmm.mit.edu/summer-school) offered annually at the Marine Biological Laboratory in Woods Hole, MA, taught by faculty affiliated with the [Center for Brains, Minds and Machines](http://cbmm.mit.edu) headquartered at MIT. Elements of the summer course are integrated into the MIT course, _9.523 Aspects of a Computational Theory of Intelligence._\n\nContributors\n------------\n\nThis course includes the contributions of many instructors, guest speakers, and a team of iCub researchers. See the [complete list of contributors](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/pages/syllabus/course-instructors-guest-speakers-and-icub-team).\n",
+  "hide_download": false,
+  "course_description": "This course explores the problem of intelligence\u2014its nature, how it is produced by the brain and how it could be replicated in machines\u2014using an approach that integrates cognitive science, which studies the mind; neuroscience, which studies the brain; and computer science and artificial intelligence, which study the computations needed to develop intelligent machines. Materials are drawn from the {{% resource_link \"c365f206-3f48-45c7-a6d7-b5752ba66ba2\" \"Brains, Minds and Machines Summer Course\" %}} offered annually at the Marine Biological Laboratory in Woods Hole, MA, taught by faculty affiliated with the {{% resource_link \"c15d7639-0d4a-4384-9197-0c650d69be8e\" \"Center for Brains, Minds and Machines\" %}} headquartered at MIT. Elements of the summer course are integrated into the MIT course, _9.523 Aspects of a Computational Theory of Intelligence._\n\nContributors\n------------\n\nThis course includes the contributions of many instructors, guest speakers, and a team of iCub researchers. See the [complete list of contributors](/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/pages/syllabus/course-instructors-guest-speakers-and-icub-team).\n",
   "department_numbers": [
     "9"
   ],
@@ -61,7 +61,6 @@
     "content": "02c7850b-19db-e02d-bd2f-d19454c023ad",
     "website": "res-9-003-brains-minds-and-machines-summer-course-summer-2015"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Other Video",
     "Lecture Videos",
