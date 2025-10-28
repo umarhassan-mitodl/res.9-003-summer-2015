@@ -27,7 +27,7 @@ videos:
 Amazon Mechanical Turk (MTurk) is an online crowdsourcing platform that enables researchers to conduct large-scale experiments on the Internet. Many experiments described in this course were conducted on MTurk. (Image ® Amazon.com. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/))
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-How can [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) (MTurk) enable you to conduct large-scale experiments on how people perform simple tasks involving perception, learning, or decision making? Or enable you to create a large database of labeled images or videos? In this introduction to MTurk, you will learn about the kinds of tasks for which MTurk is well suited, how to get started on setting up an experiment, the advantages and concerns of conducting experiments on MTurk, some tips for using this tool effectively, and additional resources for learning more about MTurk.
+How can {{% resource_link "c23bb20f-ebd2-4464-9e83-61b3fd55cba2" "Amazon Mechanical Turk" %}} (MTurk) enable you to conduct large-scale experiments on how people perform simple tasks involving perception, learning, or decision making? Or enable you to create a large database of labeled images or videos? In this introduction to MTurk, you will learn about the kinds of tasks for which MTurk is well suited, how to get started on setting up an experiment, the advantages and concerns of conducting experiments on MTurk, some tips for using this tool effectively, and additional resources for learning more about MTurk.
 
 ## Unit Activities
 
@@ -41,12 +41,12 @@ How can [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) (MTurk) en
 
 ## Further Study
 
-Gureckis, T. M., J. Martin, et al. "[psiTurk: An Open-Source Framework for Conducting Replicable Behavioral Experiments Online](http://dx.doi.org/10.3758/s13428-015-0642-8)." *Behavioral Research Methods* 48, no. 3 (2015): 829–42.
+Gureckis, T. M., J. Martin, et al. "{{% resource_link "3cde8edc-b71b-4118-a96a-ca2a7a5830f8" "psiTurk: An Open-Source Framework for Conducting Replicable Behavioral Experiments Online" %}}." *Behavioral Research Methods* 48, no. 3 (2015): 829–42.
 
-- Also see [psiturk.org](http://psiturk.org/)
+- Also see {{% resource_link "dea80f7c-8d19-43b5-8f7d-c4e4d92e591d" "psiturk.org" %}}
 
-Litman, L., J. Robinson, and T. Abberbock. "[TurkPrime.com: A Versatile Crowdsourcing Data Acquisition Platform for the Behavioral Sciences](http://dx.doi.org/10.3758/s13428-016-0727-z)." *Behavioral Research Methods* (2016): 1–10.
+Litman, L., J. Robinson, and T. Abberbock. "{{% resource_link "dea4fb20-b7ec-4ba1-a9c5-a3b4379e53fb" "TurkPrime.com: A Versatile Crowdsourcing Data Acquisition Platform for the Behavioral Sciences" %}}." *Behavioral Research Methods* (2016): 1–10.
 
-- Also see [turkprime.com](https://www.turkprime.com/)
+- Also see {{% resource_link "98b7ee0c-020b-4eb6-83f8-cafb22e993c4" "turkprime.com" %}}
 
-Also see other online forums for the use of Amazon Mechanical Turk, including Turker Nation, [Mturkgrind](https://forum.turkerview.com/), and additional tools such as [Turkopticon](https://turkopticon.ucsd.edu/).
+Also see other online forums for the use of Amazon Mechanical Turk, including Turker Nation, {{% resource_link "89f751e1-eb5f-466c-afc1-e5c64843b4f0" "Mturkgrind" %}}, and additional tools such as {{% resource_link "07c818b4-f779-4de1-8511-e261b0f03f88" "Turkopticon" %}}.

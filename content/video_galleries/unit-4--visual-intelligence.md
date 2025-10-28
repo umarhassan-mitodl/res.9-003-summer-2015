@@ -27,7 +27,7 @@ videos:
 
 What makes an image memorable? Using insights from perceptual experiments, fMRI studies, and computational modeling, Aude Oliva has identified some key factors that determine visual memorability.
 
-(Image based on Isola, Phillip, Jianxiong Xiao, Devi Parikh, Antonio Torralba, and Aude Oliva. "What Makes a Photograph Memorable?" *IEEE Trans. Pattern Anal. Mach. Intell*. 36, no. 7 (July 2014): 1469–1482. From [author's final manuscript](https://dspace.mit.edu/handle/1721.1/90984), license [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/).)
+(Image based on Isola, Phillip, Jianxiong Xiao, Devi Parikh, Antonio Torralba, and Aude Oliva. "What Makes a Photograph Memorable?" *IEEE Trans. Pattern Anal. Mach. Intell*. 36, no. 7 (July 2014): 1469–1482. From {{% resource_link "a627e1ea-c972-4380-8a89-b1db2ace1eb6" "author's final manuscript" %}}, license {{% resource_link "498a3339-bfc9-4ff8-821c-2dcfb7e98d43" "CC BY-NC-SA" %}}.)
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -57,23 +57,23 @@ We are rapidly approaching a time of fully autonomous vehicles and intelligent s
 
 Additional information about the speakers' research and publications can be found at their websites:
 
-- [Aude Oliva, Computational Perception and Cognition Lab, MIT](http://olivalab.mit.edu/audeoliva.html)
-- [Amnon Shashua, Hebrew University of Jerusalem](http://www.cs.huji.ac.il/~shashua/); also see industry websites [OrCam](https://www.orcam.com), [Mobileye](https://www.mobileye.com/)
-- [Eero Simoncelli, Laboratory for Computational Vision, NYU](http://www.cns.nyu.edu/~lcv/)
-- [Shimon Ullman, MIT and The Weizmann Institute](http://www.wisdom.weizmann.ac.il/~shimon/)
+- {{% resource_link "c72cca57-f433-441f-86dc-ff7ae9369014" "Aude Oliva, Computational Perception and Cognition Lab, MIT" %}}
+- {{% resource_link "95f3606f-16cd-47f7-9111-a5c577214c82" "Amnon Shashua, Hebrew University of Jerusalem" %}}; also see industry websites {{% resource_link "1b351e42-51be-4e47-a8ea-b6c0589856a4" "OrCam" %}}, {{% resource_link "8889e671-3020-4ce8-9999-063470e4fc5d" "Mobileye" %}}
+- {{% resource_link "39e53cbb-d80a-40f0-889a-6c773710598a" "Eero Simoncelli, Laboratory for Computational Vision, NYU" %}}
+- {{% resource_link "af1dc2a7-90df-4b18-b16b-283e02729a2d" "Shimon Ullman, MIT and The Weizmann Institute" %}}
 
-Bylinskii, Z., P. Isola, et al. ["Intrinsic and Extrinsic Effects on Image Variability." (PDF - 4.8MB)](http://web.mit.edu/zoya/www/docs/figrimProof.pdf) *Vision Research* 116 Part B (2015): 165–78.
+Bylinskii, Z., P. Isola, et al. {{% resource_link "6f29952c-1c53-4b4b-bcc5-ea29226fd0fc" "\"Intrinsic and Extrinsic Effects on Image Variability.\" (PDF - 4.8MB)" %}} *Vision Research* 116 Part B (2015): 165–78.
 
-Cichy, R. M., A. Khosla, et al. "[Dynamics of Scene Representations in the Human Brain Revealed by Magnetoencephalography and Deep Neural Networks](http://dx.doi.org/10.1016/j.neuroimage.2016.03.063)." *NeuroImage* (2016). (in press)
+Cichy, R. M., A. Khosla, et al. "{{% resource_link "d7956453-9225-44c1-9d8c-21cf8e628e71" "Dynamics of Scene Representations in the Human Brain Revealed by Magnetoencephalography and Deep Neural Networks" %}}." *NeuroImage* (2016). (in press)
 
-Freeman, J., and E. P. Simoncelli. ["Metamers of the Ventral Stream." (PDF - 2.0MB)](http://www.cns.nyu.edu/pub/eero/freeman10-reprint.pdf) *Nature Neuroscience* 14, no. 9 (2011): 1195–1201.
+Freeman, J., and E. P. Simoncelli. {{% resource_link "66dab9ae-bd46-46e3-b63e-9a3c58a45062" "\"Metamers of the Ventral Stream.\" (PDF - 2.0MB)" %}} *Nature Neuroscience* 14, no. 9 (2011): 1195–1201.
 
-Freeman, J., C. M. Ziemba, et al. ["A Functional and Perceptual Signature of the Second Visual Area in Primates." (PDF - 1.5MB)](http://www.cns.nyu.edu/pub/lcv/freeman13-reprint.pdf) *Nature Neuroscience* 16, no. 7 (2013): 974–81.
+Freeman, J., C. M. Ziemba, et al. {{% resource_link "09817c9d-fe18-4fa1-a0e4-5c98c40727ad" "\"A Functional and Perceptual Signature of the Second Visual Area in Primates.\" (PDF - 1.5MB)" %}} *Nature Neuroscience* 16, no. 7 (2013): 974–81.
 
-Portilla, J., and E. P. Simoncelli. ["A Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients." (PDF - 2.0MB)](http://www.cns.nyu.edu/pub/eero/portilla99-reprint.pdf) *International Journal of Computer Vision* 40, no. 1 (2000): 49–71.
+Portilla, J., and E. P. Simoncelli. {{% resource_link "6a3b77a1-f05c-4e2c-82f8-fc17cf65e30c" "\"A Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients.\" (PDF - 2.0MB)" %}} *International Journal of Computer Vision* 40, no. 1 (2000): 49–71.
 
-Ullman, S., L. Assif, et al. ["Atoms of Recognition in Human and Computer Vision." (PDF)](http://www.pnas.org/content/113/10/2744.full.pdf) *Proceedings of the National Academy of Sciences* 113, no. 10 (2016): 2744–49.
+Ullman, S., L. Assif, et al. {{% resource_link "205394ac-0723-48c1-ad08-74f122a9c1a4" "\"Atoms of Recognition in Human and Computer Vision.\" (PDF)" %}} *Proceedings of the National Academy of Sciences* 113, no. 10 (2016): 2744–49.
 
-Ullman, S., D. Harari, et al. ["From Simple Innate Biases to Complex Visual Concepts." (PDF - 2.5MB)](http://cs.wellesley.edu/~vision/papers/Ullman_PNAS_2012_with_SI.pdf) *Proceedings of the National Academy of Sciences* 109, no. 44 (2012): 18215–20.
+Ullman, S., D. Harari, et al. {{% resource_link "9ff769de-744d-4297-b3c8-3f07907cf512" "\"From Simple Innate Biases to Complex Visual Concepts.\" (PDF - 2.5MB)" %}} *Proceedings of the National Academy of Sciences* 109, no. 44 (2012): 18215–20.
 
-Zhou, B., A. Khosla, et al. ["Object Detectors Emerge in Deep Scene CNNs." (PDF - 7.0MB)](http://arxiv.org/pdf/1412.6856.pdf) *International Conference on Learning Representations* (2015).
+Zhou, B., A. Khosla, et al. {{% resource_link "34f6719c-027a-4d5b-9d19-dd54a0d12d32" "\"Object Detectors Emerge in Deep Scene CNNs.\" (PDF - 7.0MB)" %}} *International Conference on Learning Representations* (2015).

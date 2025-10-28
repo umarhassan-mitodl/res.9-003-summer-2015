@@ -22,7 +22,7 @@ videos:
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 {{< resource uuid="ea34d43d-037f-bd1b-ec4d-c20f3e97567e" >}}
 {{< tdclose >}}{{< tdopen >}}
-Tomaso Poggio and his colleagues have developed a model of the early processing stages in the ventral visual pathway of the brain, which may underlie our ability to recognize object categories from visual input in a brief flash of less than 100 milliseconds. (Courtesy of Tomaso Poggio and Thomas Serre. From "[Models of visual cortex](http://www.scholarpedia.org/article/Models_of_visual_cortex)." *Scholarpedia* 8 no. 4 (2013): 3516. License CC BY-NC-SA.)
+Tomaso Poggio and his colleagues have developed a model of the early processing stages in the ventral visual pathway of the brain, which may underlie our ability to recognize object categories from visual input in a brief flash of less than 100 milliseconds. (Courtesy of Tomaso Poggio and Thomas Serre. From "{{% resource_link "13368eaa-4db5-4a7f-8e25-9c8ffefe75f7" "Models of visual cortex" %}}." *Scholarpedia* 8 no. 4 (2013): 3516. License CC BY-NC-SA.)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Research on learning in deep networks has led to impressive performance by machines on tasks such as object recognition, but a deep understanding of the behavior of these networks and why they perform so well remains a mystery. In this unit, you will first learn about a model of rapid object recognition in visual cortex that resembles the structure of deep networks. You will then learn some of the theory behind how the structural connectivity, complexity, and dynamics of deep networks govern their learning behavior.
@@ -47,22 +47,22 @@ Haim Sompolinsky explores the theoretical role of common properties of neural ar
 
 Additional information about the speakers' research and publications can be found at their websites:
 
-- [Surya Ganguli, Neural Dynamics and Computation Lab, Stanford](https://ganguli-gang.stanford.edu/)
-- [Tomaso Poggio, MIT](http://cbcl.mit.edu/)
-- [Haim Sompolinsky, Harvard and Neurophysics Lab, Hebrew University of Jerusalem](https://elsc.huji.ac.il/people-directory/faculty-members/haim-sompolinsky/)
+- {{% resource_link "f9a03be4-4207-4e7c-9c53-d2b463e47fc6" "Surya Ganguli, Neural Dynamics and Computation Lab, Stanford" %}}
+- {{% resource_link "63a37b6f-bc03-4f20-920f-d0e5d0a0500c" "Tomaso Poggio, MIT" %}}
+- {{% resource_link "ebddd3c5-1c0d-42b4-857c-ba3e88e2110c" "Haim Sompolinsky, Harvard and Neurophysics Lab, Hebrew University of Jerusalem" %}}
 
-Advani, M., and S. Ganguli. ["Statistical Mechanics of High-Dimensional Inference." (PDF)](http://ganguli-gang.stanford.edu/pdf/HighDimInf.pdf) (2016).
+Advani, M., and S. Ganguli. {{% resource_link "44dbd4de-62df-4e54-b488-e5c6cdf0aa8b" "\"Statistical Mechanics of High-Dimensional Inference.\" (PDF)" %}} (2016).
 
-Anselmi, F., J. Z. Leibo, et al. "[Unsupervised Learning of Invariant Representations](https://www.researchgate.net/profile/Joel_Leibo/publication/281139622_Unsupervised_learning_of_invariant_representations/links/562d1ca408aef25a244314a6)." *Theoretical Computer Science* 633 (2016): 112–21.
+Anselmi, F., J. Z. Leibo, et al. "{{% resource_link "ea16baf9-988f-4fe5-ae47-5928166b6e0f" "Unsupervised Learning of Invariant Representations" %}}." *Theoretical Computer Science* 633 (2016): 112–21.
 
-Babadi, B., and H. Sompolinsky. ["Sparseness and Expansion in Sensory Representations."](https://www.sciencedirect.com/science/article/pii/S0896627314006461) *Neuron* 83 (2014): 1213–26.
+Babadi, B., and H. Sompolinsky. {{% resource_link "f86d4fdf-fded-4cf0-a3fb-90150e8be4bb" "\"Sparseness and Expansion in Sensory Representations.\"" %}} *Neuron* 83 (2014): 1213–26.
 
-Gao, P., and S. Ganguli. ["On Simplicity and Complexity in the Brave New World of Large-Scale Neuroscience." (PDF)](http://ganguli-gang.stanford.edu/pdf/15.BraveNewWorld.pdf) *Current Opinion in Neurobiology* 32 (2015): 148–55.
+Gao, P., and S. Ganguli. {{% resource_link "8b13f56a-ab29-4e86-9298-8fb8d416a96f" "\"On Simplicity and Complexity in the Brave New World of Large-Scale Neuroscience.\" (PDF)" %}} *Current Opinion in Neurobiology* 32 (2015): 148–55.
 
-Poggio, T. ["Deep Learning: Mathematics and Neuroscience." (PDF - 1.2MB)](http://cbmm.mit.edu/sites/default/files/publications/Deep%20Learning-%20mathematics%20and%20neuroscience.pdf) *Center for Brains Minds & Machines* Views & Reviews (2016).
+Poggio, T. {{% resource_link "12d308e9-fbfe-4335-b0bf-9bda335c83a8" "\"Deep Learning: Mathematics and Neuroscience.\" (PDF - 1.2MB)" %}} *Center for Brains Minds & Machines* Views & Reviews (2016).
 
-Saxe, A., J. McClelland, et al. ["Learning Hierarchical Category Structure in Deep Neural Networks." (PDF)](http://ganguli-gang.stanford.edu/pdf/Saxe.13.HierCat.pdf) *Proceedings 35th Annual Meeting of the Cognitive Science Society* (2013): 1271–76.
+Saxe, A., J. McClelland, et al. {{% resource_link "1e44b5e4-2d7c-499d-b3ae-e0f31ba19e1c" "\"Learning Hierarchical Category Structure in Deep Neural Networks.\" (PDF)" %}} *Proceedings 35th Annual Meeting of the Cognitive Science Society* (2013): 1271–76.
 
-Serre, T., G. Kreiman, et al. ["A Quantitative Theory of Immediate Visual Recognition." (PDF)](http://klab.tch.harvard.edu/publications/PDFs/gk2329.pdf) *Progress in Brain Research* 165 (2007): 33–56.
+Serre, T., G. Kreiman, et al. {{% resource_link "ad21322d-dee8-4d8e-988d-c75f6bbcd0de" "\"A Quantitative Theory of Immediate Visual Recognition.\" (PDF)" %}} *Progress in Brain Research* 165 (2007): 33–56.
 
-Sompolinsky, H. ["Computational Neuroscience: Beyond the Local Circuit."](https://pubmed.ncbi.nlm.nih.gov/24602868/) (PDF) Opinion in Neurobiology 2014 Sompolinsky.pdf) *Current Opinion in Neurobiology* 25 (2014): 1–6.
+Sompolinsky, H. {{% resource_link "615aefe2-b178-468f-a065-4cb9248bc10c" "\"Computational Neuroscience: Beyond the Local Circuit.\"" %}} (PDF) Opinion in Neurobiology 2014 Sompolinsky.pdf) *Current Opinion in Neurobiology* 25 (2014): 1–6.
